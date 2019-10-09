@@ -1,0 +1,10 @@
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\bin\Debug\Calculator with mordern UI.exe.config
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\bin\Debug\Calculator with mordern UI.exe
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\bin\Debug\Calculator with mordern UI.pdb
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\obj\Debug\Calculator_with_mordern_UI.Properties.Resources.resources
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\obj\Debug\Calculator with mordern UI.csproj.GenerateResource.cache
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\obj\Debug\Calculator with mordern UI.csproj.CoreCompileInputs.cache
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\obj\Debug\Calculator with mordern UI.exe
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\obj\Debug\Calculator with mordern UI.pdb
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\obj\Debug\Calculator with mordern UI.csprojAssemblyReference.cache
+D:\Studying\My project c#\Calculator with mordern UI\Calculator with mordern UI\obj\Debug\Calculator_with_mordern_UI.CalculatorWithMordernUIDemo.resources
